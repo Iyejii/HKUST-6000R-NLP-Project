@@ -19,5 +19,6 @@ Repo for HKUST-6000R-NLP group project
   1.	Baseline Models:To be determined based on task requirements and available resources.
   2.	Prompt Engineering: Use chain-of-thought prompts (e.g., "Let’s think step by step") to enhance reasoning, Inject retrieved contexts into system prompts (e.g., "Answer using ONLY the following information: {context}").
 ### 3.4 Evaluation Framework
-    Evaluation combines automated metrics—RAGAS (assessing faithfulness, context precision, and relevance via GPT-4-as-judge) and FactScore (quantifying factual consistency against references)—with human-annotated scores from 100 samples for accuracy, fluency, and completeness to validate system reliability
+
+  Evaluation combines automated metrics—RAGAS (assessing faithfulness, context precision, and relevance via GPT-4-as-judge) and FactScore (quantifying factual consistency against references)—with human-annotated scores from 100 samples for accuracy, fluency, and completeness to validate system reliability
 
