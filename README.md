@@ -1,6 +1,11 @@
 # HKUST-6000R-NLP-Project
 Repo for HKUST-6000R-NLP group project
-(dataset:https://hkustconnect-my.sharepoint.com/:u:/g/personal/ychenni_connect_ust_hk/EZmdZoZpVWdDnYckcfmMYogBEeKqaKiyDG1MRLwTKT9dqQ?e=XIiXwq)
+
+Dataset:
+[Pubmedqa-U_onedrive](https://hkustconnect-my.sharepoint.com/:u:/g/personal/ychenni_connect_ust_hk/EZmdZoZpVWdDnYckcfmMYogBEeKqaKiyDG1MRLwTKT9dqQ?e=XIiXwq)
+(if fail to access, use [PQA-U](https://drive.google.com/open?id=1RsGLINVce-0GsDkCLDuLZmoLuzfmoCuQ))
+
+
 # Comparative Analysis of Retrieval Algorithms and LLM Combinations in Retrieval-Augmented Generation (RAG) Systems
 
 ## 1. Task Introduction
